@@ -9,32 +9,30 @@ projects[colorbox] = 2.4
 
 projects[ctools] = 1.3
 
-projects[entity] = 1.0
-projects[entity][patch][] = http://drupal.org/files/entity-1796110-3.patch
+projects[entity] = 1.2
 
 projects[entityreference] = 1.0
 
-projects[features] = 1.0
+projects[features] = 2.0-rc2
 
-projects[flag] = 2.x-dev
+projects[flag] = 2.1
 
 projects[libraries] = 2.1
 
-projects[rules] = 2.3
+projects[rules] = 2.5
 
-projects[views][version] = 3.7
+projects[views] = 3.7
 
 projects[views_bulk_operations] = 3.1
 
 projects[panels] = 3.3
 
-projects[search_api][version] = 1.4
-projects[search_api][patch][] = http://drupal.org/files/1850838-1.patch
+projects[search_api][version] = 1.8
 
-projects[services][version] = 3.4
+projects[services][version] = 3.5
 ;projects[services][patch][] = http://drupal.org/files/services-rest_server-Spyc-make_documentation_check_libraries-1349588-37.patch
 
-projects[services_basic_auth][version] = 1.1
+projects[services_basic_auth] = 1.1
 
 projects[services_client] = 1.0-beta1
 projects[services_client][patch][] = http://drupal.org/files/services_client-2023089-1.patch

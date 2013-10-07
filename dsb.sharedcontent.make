@@ -24,4 +24,4 @@ projects[past] = 1.0-alpha1
 ; Use search_api_db to avoid external dependencies. As this backend does not
 ; support feature 'search_api_mlt' (http://drupal.org/node/1254698, 2013-05-01),
 ; the suggestions tab is not displayed.
-projects[search_api_db] = 1.x-dev
+projects[search_api_db] = 1.0-rc3

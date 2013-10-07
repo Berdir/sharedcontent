@@ -106,6 +106,7 @@ class SharedcontentUiTestCase extends DrupalWebTestCase {
     $editor = $this->drupalCreateUser(array(
       'access content overview',
       'access sharedcontent ui',
+      'access endpoint restricted',
     ));
 
     // And this user is loged in.

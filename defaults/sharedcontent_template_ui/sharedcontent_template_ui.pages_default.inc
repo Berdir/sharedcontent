@@ -27,6 +27,14 @@ function sharedcontent_template_ui_default_page_manager_pages() {
         'context' => 'logged-in-user',
         'not' => FALSE,
       ),
+      1 => array(
+        'name' => 'perm',
+        'settings' => array(
+          'perm' => 'access endpoint restricted',
+        ),
+        'context' => 'logged-in-user',
+        'not' => FALSE,
+      ),
     ),
     'type' => 'none',
     'settings' => NULL,
