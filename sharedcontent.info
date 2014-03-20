@@ -6,7 +6,7 @@ php = 5.3
 
 dependencies[] = ctools
 dependencies[] = entity
-dependencies[] = services_client_connection
+;dependencies[] = services_client_connection
 
 test_dependencies[] = phpseclib
 
